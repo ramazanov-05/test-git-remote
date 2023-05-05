@@ -1,9 +1,9 @@
-def Hello():
-    print('Доброе утро')
+def Hello_evening():
+    print('Доброе вечер')
 
-    Hello()
+    Hello_evening()
 
 def Hello_day():
     print('Добрый день')
 
-    Hello()
+    Hello_day()
